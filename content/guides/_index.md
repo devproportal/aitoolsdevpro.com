@@ -24,7 +24,10 @@ Deep Cogito v2.1（11月21日发布）：
 Mozilla.ai any-llm 1.0（11月4日发布，但本周活跃讨论）：
 开源 Python 库，提供单一接口连接多 LLM（云/本地）。支持异步和高吞吐，X 上开发者称其简化了栈切换。
 
-其他工具：
-ElevenLabs Scribe v2（音频转录升级）；World Labs Marble（空间模拟工具）；Baidu Ernie-4.5（多模态中国模型）；NVIDIA Apollo（AI 硬件优化）。
+其他：
+ElevenLabs Scribe v2（音频转录升级）；
+World Labs Marble（空间模拟工具）；
+Baidu Ernie-4.5（多模态中国模型）；
+NVIDIA Apollo（AI 硬件优化）。
 
 -->

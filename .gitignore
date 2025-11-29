@@ -31,6 +31,3 @@ Thumbs.db
 *.backup
 *.old
 
-.gitignore
-# guides file list
-content/guides/_index.md
